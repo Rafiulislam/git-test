@@ -1,7 +1,1 @@
-this is a new file for git learning......................
-
-
-
-Some text added...
-
-checking..
+Pull is working or not
